@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @nglammm
-- 👀 I’m interested in coding...
-- 🌱 I’m currently learning c++...
-- 💞️ I’m no lover ok?
-- 📫 Reach me out by going to http://mrlam.us.to ...
-- 😄 Pronouns: Lam...
-- ⚡ Fun fact: I code all my programs python...
+Yo, wassup Github!!!
 
-<!---
-nglammm/nglammm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Lam, that's all you need to know.
+
+I'm Currently doing the [Fluentix](https://fluentix.dev) thingy.
+
+It's interesting.
