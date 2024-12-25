@@ -1,7 +1,5 @@
-Yo, wassup Github!!!
+   # Hi there! 👋
 
-I'm Lam, that's all you need to know.
-
-I'm Currently doing the [Fluentix](https://fluentix.dev) thingy.
-
-It's interesting.
+   ## My Top Languages
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+   
