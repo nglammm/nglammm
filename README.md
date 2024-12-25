@@ -1,5 +1,4 @@
-   # Hi there! 👋
+Im a terrible developer.
 
-   ## My Top Languages
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nglammm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nglammm&layout=compact)
    
